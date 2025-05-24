@@ -1,0 +1,30 @@
+{
+  "theme": {
+    "primary_color": "#7efb6c",
+    "secondary_color": "#4ECDC4",
+    "background_color": "#FFFFFF",
+    "text_color": "#000000",
+    "font_family": "Default",
+    "font_size": "Medium"
+  },
+  "layout": {
+    "sidebar_width": "Medium",
+    "page_layout": "Centered",
+    "show_progress_bars": true,
+    "show_tooltips": true,
+    "animated_transitions": true,
+    "lazy_loading": true,
+    "cache_ui_elements": true
+  },
+  "display": {
+    "chart_theme": "plotly",
+    "chart_height": 400,
+    "show_chart_toolbar": true,
+    "table_page_size": 25,
+    "table_height": 300,
+    "show_index": false,
+    "notification_position": "top-right",
+    "notification_duration": 3,
+    "sound_notifications": false
+  }
+}
